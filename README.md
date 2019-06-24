@@ -1,7 +1,7 @@
 # i3Configs
 My custom i3 and xresource configs
 
-![i3 Style](/i3Configs/i3Configworkspase.png)
+![i3 Style](docs/i3Configworkspase.png)
 
 # Installation
 + Copy file i3/config to ~/.i3 and replace the current config file
