@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: i3Configs
 description: These are my personal set cof configurations for the linux i3 window manager.
+show_downloads: true
